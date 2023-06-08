@@ -159,10 +159,10 @@ section {
   font-weight: 600;
 }
 .menu .menu-ingredients {
-  font-style: italic;
+ 
   font-size: 14px;
-  font-family: "Comic Neue", sans-serif;
-  color: #000000;
+    font-family: "Poppins", sans-serif;
+ color: #308840;
   font-weight: bold;
 }
 
